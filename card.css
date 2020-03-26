@@ -1,0 +1,45 @@
+.cardview{
+    width: 700px;
+    height: 700px;
+    background-image: url(headquaters.jpg);background:cover;
+    padding-top:20px ;
+    padding-left: 250px;
+}
+.wholecard{
+    width: 350px;
+    height: 550px;
+    background-color: white;
+    border-radius: 20px;
+}
+.logo{
+    width: 350px;
+    height:110px;
+    background-color:red;
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    padding-top: 15px;
+}
+.cardholder{
+    width: 120px;
+    height: 15px;
+    border-radius:25px;
+    background-color: black;
+    margin: 0 auto;
+}
+.logoh1{
+    text-align: center;
+    font-size: 25px;
+    color:white ;
+}
+.staffimage{
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    padding-left: 75px;
+}
+.details{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 11px;
+
+}
